@@ -9,3 +9,6 @@ There's a "2" in the name because it is the second attempt and atleast it was co
 There's one issue with it and that is it has trouble accepting any hexadecimal key that 
 begins with "A to F", most likely because the equivalent Binary of the Hex key was obtained using 
 a explicit 64 bit length restrictive conversion applied on it using String.format().
+
+Output:
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/uRUIWy8" data-context="false"><a href="//imgur.com/uRUIWy8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
